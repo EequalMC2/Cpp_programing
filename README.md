@@ -1,2 +1,2 @@
-# C-_programing
-C++_programing_examples
+# C++_programing
+C++ programing examples
